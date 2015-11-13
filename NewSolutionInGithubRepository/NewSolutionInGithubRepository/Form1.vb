@@ -1,5 +1,5 @@
 ﻿Public Class Form1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Label1.Text = "Changed5"
+        Label1.Text = "Changed6"
     End Sub
 End Class
